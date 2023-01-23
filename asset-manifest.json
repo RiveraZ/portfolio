@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.78efe5e8.css",
+    "main.js": "/main/static/js/main.da28405b.js",
+    "static/media/heroCityImg.jpg": "/main/static/media/heroCityImg.25c35d7e7b8948ac6b81.jpg",
+    "static/media/heroHeader.svg": "/main/static/media/heroHeader.8525000ca8cf98c81fc4340c2d6c1ccd.svg",
+    "static/media/projectButton.svg": "/main/static/media/projectButton.15b52bfee1f08507423aa3f1335f0bad.svg",
+    "static/media/menuButton.svg": "/main/static/media/menuButton.460dd14d30432477f18d8adb8aa53ec9.svg",
+    "index.html": "/main/index.html",
+    "main.78efe5e8.css.map": "/main/static/css/main.78efe5e8.css.map",
+    "main.da28405b.js.map": "/main/static/js/main.da28405b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78efe5e8.css",
+    "static/js/main.da28405b.js"
+  ]
+}
